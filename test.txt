@@ -3,3 +3,4 @@ Local changes in this file
 Yet another change on the branch
 Conflicting change on branch
 CHange2
+Another branch change
