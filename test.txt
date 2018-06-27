@@ -2,3 +2,4 @@ This is the first test
 Local changes in this file
 Yet another change on the branch
 Conflicting change on branch
+Another branch change
